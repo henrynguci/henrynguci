@@ -7,7 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/@moinguci" target="blank"><img src="https://img.shields.io/twitter/follow/@moinguci?logo=twitter&style=for-the-badge" alt="@moinguci" /></a> </p>
 
-- 🌱 I’m currently learning **C++**
 
 - 📫 How to reach me **henrynguci@gmail.com**
 
