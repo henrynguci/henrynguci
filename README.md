@@ -1,5 +1,5 @@
 [![MasterHead](https://cdn.dribbble.com/userupload/9125261/file/original-403fe652daa8c78134b893835e1bd75b.png?resize=2000x400)](https://rishavchanda.io)
-<h1 align="center">Hi 👋, I'm Henrynguci</h1>
+<h1 align="center">Hi 👋, I'm Mhung</h1>
 <h3 align="center">A passionate Fullstack developer</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 
