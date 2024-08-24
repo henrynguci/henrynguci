@@ -1,6 +1,6 @@
 <h1 align="center">Hello 👋, I'm Trinh Minh Hung</h1>
 
-<h3 align="center">Transforming Dreams into Code Reality</h3>
+<h3 align="center">Code dreams into reality</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Full-stack+Developer;Problem+Solver;Continuous+Learner;Code+Enthusiast" alt="Typing SVG" />
