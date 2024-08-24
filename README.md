@@ -1,8 +1,15 @@
-<p align="center"><a href="https://henrynguci.github.io"><img width="80%" alt="Hello, I'm Hung!" src="./assets/gh-readme-header.png" /></a></p>
-<br />
-<h3 align="center">Code dreams into reality</h3>
+<h1 align="center">Hello 👋, I'm Trinh Minh Hung</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=henrynguci&label=Profile%20views&color=0e75b6&style=flat" alt="henrynguci" /> </p>
+<h3 align="center">Transforming Dreams into Code Reality</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Full-stack+Developer;Problem+Solver;Continuous+Learner;Code+Enthusiast" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=trinhminhung&label=Profile%20views&color=0e75b6&style=flat" alt="trinhminhung" />
+</p>
+
 
 - 🌱 I’m currently learning **Devops**
 
