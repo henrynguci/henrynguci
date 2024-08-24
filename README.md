@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Trinh Minh Hung</h1>
-<h3 align="center">A passionate developer</h3>
+<p align="center"><a href="https://henrynguci.github.io"><img width="80%" alt="Hello, I'm Hung!" src="./assets/gh-readme-header.png" /></a></p>
+<h3 align="center">Code dreams into reality</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=henrynguci&label=Profile%20views&color=0e75b6&style=flat" alt="henrynguci" /> </p>
 
