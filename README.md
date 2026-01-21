@@ -26,5 +26,5 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=henrynguci&show_icons=true&theme=synthwave)
 ![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=henrynguci&theme=tokyonight)  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=henrynguci&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=480)](https://git.io/streak-stats)
+[](https://github-readme-streak-stats.herokuapp.com?user=henrynguci&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=480)](https://git.io/streak-stats)
 ![GitHub Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=henrynguci&theme=tokyonight)
