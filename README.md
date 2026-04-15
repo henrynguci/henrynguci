@@ -27,25 +27,17 @@
 
 ---
 
-<h3 align="center">Languages and Tools:</h3>
-
-<table align="center" width="100%">
+<table align="center">
 <tr>
-<td align="center" width="50%">
-
+<td align="center" width="400">
 <h4>Languages</h4>
-
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
 <br/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/>
-
 </td>
-
-<td align="center" width="50%">
-
+<td align="center" width="400">
 <h4>Frameworks & Tools</h4>
-
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/>
 <br/>
@@ -57,7 +49,6 @@
 <br/>
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="40"/>
-
 </td>
 </tr>
 </table>
