@@ -54,7 +54,6 @@
 </table>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=henrynguci&show_icons=true&theme=synthwave"/>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=henrynguci&theme=tokyonight"/>
 </p>
 
